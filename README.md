@@ -13,8 +13,7 @@ There was 5% chance to change the preferences on bit higher or lower for each pa
   <img src="random-poland/7_2remisy.png"  width="200"/>
   <img src="random-poland/7_3remisy.png"  width="200"/>
 </p>
-2. Using genetic algorithm there was find the best parameters to model the situation in last 15 years. It gave about 90% of accuracy when the two parameters for district Łódzie was chenaged by had. The preferences where summaring for 4 years and the voting change the state in 5th year to wich was more possible after this time.<br> 
-
+2. Using genetic algorithm there was find the best parameters to model the situation in last 15 years. It gave about 90% of accuracy when the two parameters for district Łódzie was chenaged by had. The preferences where summaring for 4 years and the voting change the state in 5th year to wich was more possible after this time.<br>  <br>
 3. For th best results it should be used more precise map with more nodes (not only 13) and probably the smaller time stap than 1 year. Adding more parameters could be also helpfull, and watching how they change and if they correspond to the actual value of some parameters like the average income, education or age.
 
 
