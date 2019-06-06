@@ -6,7 +6,7 @@ Project to model the voting situation in Poland for Europarlament Election (2004
 ### Conclusions: <br>
 1. The outcome of rundom support for each party is that, the 40% of situations ended with the domination of party A, the next 40% of the domination of party B and 20% of the results where no party dominates. The interesting fact is that the 43% of this 20% is the situation where Poland is divided on the West side and East side (just like in real life).
 
-<p float="center">
+<p float="right">
   <img src="random-poland/14_4remisy.png" width="200"/>
   <img src="random-poland/14_7remisy.png" width="200"/>
   <img src="random-poland/7_2remisy.png"  width="200"/>
