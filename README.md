@@ -15,5 +15,7 @@ There was 5% chance to change the preferences on bit higher or lower for each pa
 2. Using genetic algorithm there was find the best parameters to model the situation in last 15 years. It gave about 90% of accuracy when the two parameters for district Łódzie was chenaged by had. The preferences where summaring for 4 years and the voting change the state in 5th year to wich was more possible after this time.<br>  <br>
 3. For th best results it should be used more precise map with more nodes (not only 13) and probably the smaller time stap than 1 year. Adding more parameters could be also helpfull, and watching how they change and if they correspond to the actual value of some parameters like the average income, education or age.
 
+## Step 2: <br>
+The next step is to check which of variables describing each district are most influencive for th outcome of election.
 
 ![Alt text](powiaty.png?raw=true "powiaty")
