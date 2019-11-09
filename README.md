@@ -16,6 +16,13 @@ There was 5% chance to change the preferences on bit higher or lower for each pa
 3. For th best results it should be used more precise map with more nodes (not only 13) and probably the smaller time stap than 1 year. Adding more parameters could be also helpfull, and watching how they change and if they correspond to the actual value of some parameters like the average income, education or age.
 
 ## Step 2: <br>
-The next step is to check which of variables describing each district are most influencive for th outcome of election.
+The next step is to check which of variables describing each district are most influencive for th outcome of election. ,br.
+First fo all I decidet ot use the data only for parlamentary elections due to fact that people treat it like the most important [[1]](#1) [[2]](#2). 
+
+
+## References
+<a id="1">[1]</a> Waldemar Wojtasik (2010). Drugorzędność wyborów samorządowych w teorii i badaniach empirycznych.
+<a id="2">[2]</a> Michael Marsh (1998). Testing the Second-Order Election Modelafter Four European Elections.
+<a id="3">[3]</a> https://pl.wikipedia.org/wiki/Wybory_w_Polsce#/media/Plik:Procentowe_wyniki_wybor%C3%B3w_do_Sejmu.png
 
 ![Alt text](powiaty.png?raw=true "powiaty")
