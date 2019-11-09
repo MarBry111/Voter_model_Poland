@@ -17,12 +17,12 @@ There was 5% chance to change the preferences on bit higher or lower for each pa
 
 ## Step 2: <br>
 The next step is to check which of variables describing each district are most influencive for th outcome of election. ,br.
-First fo all I decidet ot use the data only for parlamentary elections due to fact that people treat it like the most important [[1]](#1) [[2]](#2). 
+First fo all I decidet ot use the data only for parlamentary elections due to fact that people treat it like the most important [[1]](#1) [[2]](#2). Then based on the number of politics from each party in parlament [[3]](#3) I decided to focuse on elections from 2005 - 2019 beacause of fact the simplyfing model to two parties only, one Civic Platform (PO) and second Law and Juistice (PiS).
 
 
 ## References
-<a id="1">[1]</a> Waldemar Wojtasik (2010). Drugorzędność wyborów samorządowych w teorii i badaniach empirycznych.
-<a id="2">[2]</a> Michael Marsh (1998). Testing the Second-Order Election Modelafter Four European Elections.
-<a id="3">[3]</a> https://pl.wikipedia.org/wiki/Wybory_w_Polsce#/media/Plik:Procentowe_wyniki_wybor%C3%B3w_do_Sejmu.png
+<a id="1">[1]</a> Waldemar Wojtasik (2010). Drugorzędność wyborów samorządowych w teorii i badaniach empirycznych. <br>
+<a id="2">[2]</a> Michael Marsh (1998). Testing the Second-Order Election Modelafter Four European Elections. <br>
+<a id="3">[3]</a> https://pl.wikipedia.org/wiki/Wybory_w_Polsce#/media/Plik:Procentowe_wyniki_wybor%C3%B3w_do_Sejmu.png <br>
 
 ![Alt text](powiaty.png?raw=true "powiaty")
